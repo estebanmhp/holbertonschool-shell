@@ -1,0 +1,2 @@
+#!/bin/bash
+mv /home/estebanmh/holbertonschool-shell/basics/betty /tmp/my_first_directory/
