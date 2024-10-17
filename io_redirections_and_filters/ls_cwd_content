@@ -1,0 +1,17 @@
+total 60
+drwxr-xr-x 2 estebanmh estebanmh 4096 Oct 17 16:12 .
+drwxr-xr-x 6 estebanmh estebanmh 4096 Oct 17 15:08 ..
+-rwxr--r-- 1 estebanmh estebanmh   32 Oct 17 14:13 0-hello_world
+-rwxr--r-- 1 estebanmh estebanmh   31 Oct 17 14:35 1-confused_smiley
+-rwxr--r-- 1 estebanmh estebanmh   28 Oct 17 14:21 2-hellofile
+-rwxr--r-- 1 estebanmh estebanmh   39 Oct 17 14:27 3-twofiles
+-rwxr--r-- 1 estebanmh estebanmh   39 Oct 17 14:38 4-lastlines
+-rwxr--r-- 1 estebanmh estebanmh   39 Oct 17 14:42 5-firstlines
+-rwxr--r-- 1 estebanmh estebanmh   36 Oct 17 14:55 6-third_line
+-rwxr--r-- 1 estebanmh estebanmh   99 Oct 17 15:55 7-file
+-rwxr--r-- 1 estebanmh estebanmh   36 Oct 17 16:12 8-cwd_state
+-rwxr--r-- 1 estebanmh estebanmh   35 Oct 17 16:08 8-cwd_state~
+-rw-r--r-- 1 estebanmh estebanmh  101 Oct 17 13:42 README.md
+-rw-r--r-- 1 estebanmh estebanmh   12 Oct 17 15:55 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 estebanmh estebanmh  809 Oct 17 14:46 iacta
+-rw-r--r-- 1 estebanmh estebanmh    0 Oct 17 16:12 ls_cwd_content
